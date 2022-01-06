@@ -1,0 +1,4 @@
+3
+abcabc abc
+ababab ab
+leet code
