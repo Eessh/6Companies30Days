@@ -1,2 +1,7 @@
 default:
-	g++ -std=c++17 ColumnName.cpp -o ./ColumnName && time ./ColumnName <input.txt
+	g++ -std=c++17 \
+	ColumnName.cpp -o ./ColumnName \
+	&& \
+	time ./ColumnName <input.txt \
+	&& \
+	rm ./ColumnName
