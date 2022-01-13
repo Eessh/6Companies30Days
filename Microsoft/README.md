@@ -11,6 +11,6 @@
 - [ ] Stickler Thief (Similar to Alibaba and Thiefes Question)  [🔗](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)
 - [ ] Generate and print all binary numbers with decimal values from 1 to N.  [🔗](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)
 - [ ] Find all the unique quadruple from the given array that sums up to the given number.  [🔗](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)
-- [ ] Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.  [🔗](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)
+- [x] Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.  [🔗](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)
 - [ ] Given a destination D , find the minimum number of steps required to reach that destination.  [🔗](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)
 - [ ] Find the order of characters in the alien language.  [🔗](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)
