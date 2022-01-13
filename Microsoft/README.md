@@ -6,7 +6,7 @@
 - [ ] Stock span problem  [🔗](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
 - [ ] Possible Words From Phone Digits  [🔗](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)
 - [ ] Unit Area of largest region of 1's  [🔗](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)
-- [ ] Connect Nodes at Same Level  [🔗](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)
+- [x] Connect Nodes at Same Level  [🔗](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)
 - [ ] Count Number of SubTrees having given Sum  [🔗](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)
 - [ ] Stickler Thief (Similar to Alibaba and Thiefes Question)  [🔗](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)
 - [ ] Generate and print all binary numbers with decimal values from 1 to N.  [🔗](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)
